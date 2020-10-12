@@ -1,0 +1,7 @@
+pila=[3,4,5] # pila de inicio ccon un arreglo
+print (pila) #impresion de la pila
+#345
+pila.append(7)
+pila.append(8)
+#34578
+print (pila)
